@@ -14,6 +14,7 @@ public class CameraShake : MonoBehaviour
     private float shakeTimer = 0f;
     private Vector3 rotationOffset;
 
+    // Initialization
     private void Start()
     {
         // Find the player's transform
@@ -23,8 +24,10 @@ public class CameraShake : MonoBehaviour
         originalRotation = transform.rotation;
     }
 
+    // Update is called once per frame
     private void Update()
     {
+        // Check if the camera is currently shaking
         if (shakeTimer > 0)
         {
             // Apply random rotations within a range
