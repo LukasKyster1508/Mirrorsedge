@@ -31,15 +31,21 @@ o	WalkingObject – Makes the spawned objects walk around the city.
 
 •	Materials:
   o	Skybox HDRI downloaded from - https://hdri-haven.com/hdri/factory-sunset-sky-dome
+  
 •	Scenes:
   o	Game consists of one scene
+  
 •	Testing:
   o	The game has only been played on windows in the unity editor. There is a slight problem with the New York  Asset due to the models hitboxes so the wall run toggles while in the air at times.
+  
 •	Music:
   o	The music used in the game has been downloaded from - https://pixabay.com/sound-effects/city-ambience-9272/
 
 Used Resources
 •	Rigidbody FPS Controller (w/WallRunning) | Tutorial Series -  https://youtube.com/playlist?list=PLRiqz5jhNfSo-Fjsx3vv2kvYbxUDMBZ0u&si=KsNc9dTrVmcOhQrf
+
 •	Real New York City Vol. 1 -https://assetstore.unity.com/packages/3d/environments/urban/real-new-york-city-vol-1-208247
+
 •	OpenAI – Chat GPT
+
 •	City ambience - https://pixabay.com/sound-effects/city-ambience-9272/
