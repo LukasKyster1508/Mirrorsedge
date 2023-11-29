@@ -52,6 +52,13 @@ The main components of the game include:
 
 - [Rigidbody FPS Controller (w/WallRunning) | Tutorial Series](https://youtube.com/playlist?list=PLRiqz5jhNfSo-Fjsx3vv2kvYbxUDMBZ0u&si=KsNc9dTrVmcOhQrf)
 - [Real New York City Vol. 1](https://assetstore.unity.com/packages/3d/environments/urban/real-new-york-city-vol-1-208247)
+- [Real New York City Vol. 2](https://assetstore.unity.com/packages/3d/environments/urban/real-new-york-city-vol-2-222827)
 - [OpenAI – Chat GPT](https://www.openai.com/)
 - [City Ambience Sound](https://pixabay.com/sound-effects/city-ambience-9272/)
 
+## If You Want To Download!!
+- In order to be able to play the game you will have to download the following from the unity asset store, since they could not be pushed to the repository.
+- [Real New York City Vol. 1](https://assetstore.unity.com/packages/3d/environments/urban/real-new-york-city-vol-1-208247)
+- [Real New York City Vol. 2](https://assetstore.unity.com/packages/3d/environments/urban/real-new-york-city-vol-2-222827)
+
+  
